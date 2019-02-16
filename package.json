@@ -1,0 +1,21 @@
+{
+  "name": "html-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "serve calculadora",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevMex/html-exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevMex/html-exercise/issues"
+  },
+  "homepage": "https://github.com/DevMex/html-exercise#readme"
+}
